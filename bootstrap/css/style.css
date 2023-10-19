@@ -1,0 +1,28 @@
+@media (max-width:991px) {
+    body.poster {
+        margin-top: 60vh;
+    }
+}
+
+body.poster {
+    background-attachment: fixed;
+}
+
+.top-5 {
+    top: 5px;
+}
+
+formulario {
+    display: flex;
+    justify-content: center;
+
+    /* Centra horizontalmente */
+    align-items: center;
+
+    /* Centra verticalmente */
+    height: 100vh;
+    width: 400vh;
+    text-align: center;
+}
+
+
